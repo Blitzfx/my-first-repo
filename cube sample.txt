@@ -86,4 +86,6 @@ ICACHE_FLASH_ATTR void cube_draw(int16_t _pix[VERTEX_COUNT][3], uint16_t color)
 
 ICACHE_FLASH_ATTR void cube_draw_init()
 {
+{
+}
 }
